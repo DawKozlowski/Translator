@@ -3,6 +3,7 @@ Application using JavaFX for user GUI and TCP protocol to translate words.
 For proper functioning of the software, the main server and language servers must be running.
 However, there is a validation that predicts the possibility of an error.
 To translate word to the appropriate language you need to insert right language code E.g. for English it is EN
+You also need to insert port number where the client will be waiting for the answer.
 
 
 
