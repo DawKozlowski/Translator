@@ -9,8 +9,9 @@ However, there is a validation that predicts the possibility of an error.
 
 ## How to use
 -- To translate word to the appropriate language you need to insert right language code E.g. for English it is EN
--- You need to insert port number where the client will be waiting for the answer.
 -- 
+-- You need to insert port number where the client will be waiting for the answer
+--
 
 
 
